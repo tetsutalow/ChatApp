@@ -1,0 +1,11 @@
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.SuggestedBindingRedirects.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatApp\obj\Debug\ChatApp.MainForm.resources

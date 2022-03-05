@@ -1,0 +1,14 @@
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ClientApp.exe.config
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ClientApp.exe
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ClientApp.pdb
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.exe
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.pdb
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ChatAppCommon.dll
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ChatAppCommon.pdb
+E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
