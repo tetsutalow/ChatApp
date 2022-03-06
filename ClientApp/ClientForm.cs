@@ -77,19 +77,14 @@ namespace ClientApp
         {
             try
             {
-                // サーバーからのデータを受信
+                // ユーザー定義型のオブジェクト取得
                 var data = result.AsyncState as CommunicationData;
-                var length = data.Client.Socket.EndReceive(result);
 
-                // 受信データが0byteの場合切断と判定
-                if (length == 0)
-                {
-                    // 切断ログ出力
-                    SetLog("サーバーから切断されました。");
+                // 切断をクリックしている場合
+                if (data.Client.Socket == null) return;
 
-                    // データ受信を終了
-                    return;
-                }
+                // サーバーからのデータを受信
+                data.Client.Socket?.EndReceive(result);
 
                 // 受信データを出力
                 SetLog($"サーバーからデータ受信<<{data}");
@@ -99,6 +94,9 @@ namespace ClientApp
             }
             catch (Exception) 
             {
+                // 切断ログ出力
+                SetLog("サーバーから切断されました。");
+
                 // ボタンの有効状態を設定
                 Invoke(new Action(() => 
                 {

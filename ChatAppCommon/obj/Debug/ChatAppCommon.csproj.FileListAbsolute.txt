@@ -3,4 +3,3 @@ E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatAppCo
 E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatAppCommon\obj\Debug\ChatAppCommon.csproj.CoreCompileInputs.cache
 E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatAppCommon\obj\Debug\ChatAppCommon.dll
 E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatAppCommon\obj\Debug\ChatAppCommon.pdb
-E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ChatAppCommon\obj\Debug\ChatAppCommon.csproj.AssemblyReference.cache
