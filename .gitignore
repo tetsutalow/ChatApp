@@ -2,10 +2,3 @@
 .vs/ChatApp/FileContentIndex/read.lock
 .vs/ChatApp/v17/.suo
 ChatAppCommon/obj/Debug/ChatAppCommon.csproj.AssemblyReference.cache
-/.vs
-/ChatAppCommon/obj
-/ChatAppCommon/bin
-/ClientApp/obj
-/ClientApp/bin
-/ServerApp/obj
-/ServerApp/bin
