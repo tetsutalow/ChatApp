@@ -91,14 +91,13 @@ namespace ClientApp
 
                 // 受信メッセージが!で始まるか？
 
-                string[] mes = data.ToString().Split('：'); // 受信文字列を：で区切って配列に 
+                string[] mes = data.ToString().TrimEnd('\0').Split('：'); // 受信文字列を：で区切って配列に 
                 if (mes.Length > 1) {                       // ：が含まれていたら送受信メッセージ
                     if (mes[1].StartsWith("!"))             // 本文が!で始まっていたら
                     {
-                        //                        string command = $"/C msg * /W {mes[1].Substring(1)}"; // !以降をメッセージにする
-                        string command = $"* /W {mes[1].Substring(1)}"; // !以降をメッセージにする
-                        SetLog($"メッセージは!で始まる:{command}"); // 先頭文字だけ削る
-                        Process.Start("cmd.exe", $"/K C:\\Windows\\System32\\msg.exe {mes[1]}");
+                        string command = $"msgbox \"{mes[1]}\",vbOKOnly,\"{txtName.Text}\""; // !以降をメッセージにする
+                        string filename = $"{txtName.Text}.vbs";    // ファイルを作って実行
+                        Process.Start("cmd.exe", $"/q/C echo {command} > {filename} & start /min cscript {filename}");
                     }
                 }
 
