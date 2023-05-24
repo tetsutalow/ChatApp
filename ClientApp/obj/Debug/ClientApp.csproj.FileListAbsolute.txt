@@ -12,3 +12,17 @@ E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp
 E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ChatAppCommon.dll
 E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\bin\Debug\ChatAppCommon.pdb
 E:\Users\ゴリヘイ\Documents\自作ツールリポジトリ\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\bin\Debug\ChatAppCommon.dll
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\bin\Debug\ChatAppCommon.pdb
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\tetsu\Source\Repos\tetsutalow\ChatApp\ClientApp\obj\Debug\ClientApp.pdb
