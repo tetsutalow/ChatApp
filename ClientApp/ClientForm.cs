@@ -89,6 +89,19 @@ namespace ClientApp
                 // 受信データを出力
                 SetLog($"サーバーからデータ受信<<{data}");
 
+                // 受信メッセージが!で始まるか？
+
+                string[] mes = data.ToString().Split('：'); // 受信文字列を：で区切って配列に 
+                if (mes.Length > 1) {                       // ：が含まれていたら送受信メッセージ
+                    if (mes[1].StartsWith("!"))             // 本文が!で始まっていたら
+                    {
+                        //                        string command = $"/C msg * /W {mes[1].Substring(1)}"; // !以降をメッセージにする
+                        string command = $"* /W {mes[1].Substring(1)}"; // !以降をメッセージにする
+                        SetLog($"メッセージは!で始まる:{command}"); // 先頭文字だけ削る
+                        Process.Start("cmd.exe", $"/K C:\\Windows\\System32\\msg.exe {mes[1]}");
+                    }
+                }
+
                 // 再度サーバーからのデータ受信を待機
                 data.Client.Socket.BeginReceive(data.Data, 0, data.Data.Length, SocketFlags.None, ReceiveCallback, data);
             }
